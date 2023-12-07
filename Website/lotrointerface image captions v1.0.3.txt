@@ -1,0 +1,8 @@
+OpaqueQuestTracker_inUse_v1.0.0.png:
+An opaque window behind the quest tracker makes it easier to read.
+
+OpaqueQuestTracker_options_v1.0.3.png:
+Opacity, color, lock status, lock icon location, and more can be found in options.
+
+OpaqueQuestTrackerLockIcon_v1.0.3.png:
+The lock icon is semi-transparant until you hover over it.

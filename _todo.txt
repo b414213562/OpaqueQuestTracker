@@ -1,0 +1,11 @@
+v1.0.3 features:
+
+Bug fix:
+    Shrinking window from left turns into drag once minimum width is hit.
+    Distinguish between player's "default" and plugin's "default"
+
+Potential features:
+    Make the resize border customizable
+    Highlight just the border when the cursor is over the border
+    Only get screen size when it changes, not during every move/resize?
+    Investigate: how to get the text further away from the checkbox?

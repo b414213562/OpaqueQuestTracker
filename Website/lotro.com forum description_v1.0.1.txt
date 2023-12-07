@@ -1,0 +1,5 @@
+Version 1.0.1 is now available at [URL=https://lotrointerface.com/downloads/info1144-OpaqueQuestTracker.html]lotrointerface.com[/URL].
+
+This adds two nice-to-have improvements: Setting up the Opaque Quest Tracker position once and using it as a new default, and picking the color of the opaque background.
+
+[IMG]https://www.lotrointerface.com/downloads/full3415.jpg[/IMG]

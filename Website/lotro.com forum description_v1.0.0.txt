@@ -1,0 +1,10 @@
+I just uploaded the initial version (v1.0.0) of the Opaque Quest Tracker plugin. This was requested by a friend to make the quest tracker text easier to read by placing an opaque window behind the quest tracker. The implementation was inspired by Thurallor's simpler implementation [url="https://www.lotro.com/forums/showthread.php?672011-Quest-Tracker-Opacity"]here[/url].
+
+You can see it in action here:
+[IMG]https://www.lotrointerface.com/downloads/full3412.jpg[/IMG]
+
+You can change the opacity and lock the window in place through the options screen in the plugin manager:
+
+[IMG]https://www.lotrointerface.com/downloads/full3413.jpg[/IMG]
+
+More detailed information is available at [URL="https://www.lotrointerface.com/downloads/info1144-OpaqueQuestTracker.html"]lotrointerface[/URL].

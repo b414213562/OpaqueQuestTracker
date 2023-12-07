@@ -1,0 +1,38 @@
+[SIZE="4"][COLOR="DeepSkyBlue"]Introduction[/COLOR][/SIZE]
+
+Opaque Quest Tracker is a movable window that you can put behind your quest tracker to make it easier to read the text.
+
+Click and drag to move the window.
+Click and drag on an edge to resize the window.
+
+In the options screen you can:
+[list]
+[*]change the background color using the color picker.
+[*]lock the window once it is the correct location / size.
+[*]save the current settings as the default for any new characters.
+[*]revert the current settings if the window is not visible for any reason.
+[/list]
+
+[SIZE="4"][COLOR="DeepSkyBlue"]Installation and Startup[/COLOR][/SIZE]
+
+To install:
+
+[list]
+[*]Unzip the archive. You will get a folder called "CubePlugins". Move this folder into your Documents/The Lord of the Rings Online/Plugins folder.
+[/list]
+
+To load the plugin, use the game's built-in Plugin Manager.  This can be found in the "^" menu, at the bottom of the screen.  Click the [IMG]http://i.imgur.com/aT2k9Lw.png[/IMG] icon, then choose "System" and then "Plugin Manager". (As a shortcut, you can also type "/plugins manager" in your chat window.
+
+When the Plugin Manager opens, find Opaque Quest Tracker on the list on the left side. Click "Load" to load the plugin.  If you would like the plugin to load automatically each time you login, choose your character's name in the "Automatically Load For" pulldown menu.
+
+[SIZE="4"][COLOR="DeepSkyBlue"]Known Issues[/COLOR][/SIZE]
+[list]
+[*]None
+[/list]
+
+[SIZE="4"][COLOR="DeepSkyBlue"]Revision History[/COLOR][/SIZE]
+[list]
+[*]2021-10-12: Version 1.0.2: Fixed various UI bugs.
+[*]2021-08-10: Version 1.0.1: Added defaults override and background color picking.
+[*]2021-07-20: Version 1.0.0: Initial release.
+[/list]

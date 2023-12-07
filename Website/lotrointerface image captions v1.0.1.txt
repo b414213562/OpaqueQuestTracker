@@ -1,0 +1,5 @@
+OpaqueQuestTracker_inUse_v1.0.0.png:
+An opaque window behind the quest tracker makes it easier to read.
+
+OpaqueQuestTracker_options_v1.0.2.png:
+The opacity, color, and lock status of the window can be adjusted. The current settings can be used as the default. The settings can be reverted to plugin's default.
